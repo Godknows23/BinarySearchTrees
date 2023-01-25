@@ -5,3 +5,4 @@ class Node {
       this.right = right;
     }
   }
+  module.exports = Node;
