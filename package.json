@@ -1,0 +1,23 @@
+{
+  "name": "binarysearchtrees",
+  "version": "1.0.0",
+  "description": "binary search trees – where you take a group of data items and turn them into a tree full of nodes where each left node is “lower” than each right node. The tree starts with the “root node” and any node with no children is called a “leaf node”",
+  "main": "Tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godknows23/BinarySearchTrees.git"
+  },
+  "author": "Godknows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Godknows23/BinarySearchTrees/issues"
+  },
+  "homepage": "https://github.com/Godknows23/BinarySearchTrees#readme",
+  "devDependencies": {
+    "csv-loader": "^3.0.5",
+    "xml-loader": "^1.2.1"
+  }
+}
